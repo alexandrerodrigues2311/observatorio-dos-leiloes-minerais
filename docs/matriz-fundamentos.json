@@ -1,0 +1,111 @@
+[
+  {
+    "id": "A1",
+    "claim": "Disponibilidade não equivale a liberação imediata",
+    "sources": [
+      "codigo",
+      "9406",
+      "r24"
+    ],
+    "section": "Rodadas",
+    "limit": "Regra geral; depende do ato e do edital."
+  },
+  {
+    "id": "A2",
+    "claim": "O lance vencedor não comprova recolhimento de CFEM",
+    "sources": [
+      "7990",
+      "8001"
+    ],
+    "section": "Panorama",
+    "limit": "Distinção entre prioridade sobre área e aquisição de bem mineral."
+  },
+  {
+    "id": "A3",
+    "claim": "Primeiro adquirente é sujeito passivo na PLG",
+    "sources": [
+      "8001",
+      "r103"
+    ],
+    "section": "6ª rodada",
+    "limit": "Art. 2º-A, II; não atribuir toda receita do adquirente a uma área."
+  },
+  {
+    "id": "A4",
+    "claim": "CFEM distribuída não demonstra gasto executado",
+    "sources": [
+      "8001",
+      "7990"
+    ],
+    "section": "CFEM",
+    "limit": "Partilha e aplicação são etapas distintas."
+  },
+  {
+    "id": "A5",
+    "claim": "Restrições de uso têm exceções legais",
+    "sources": [
+      "7990"
+    ],
+    "section": "Aplicação",
+    "limit": "Art. 8º, §§ 1º e 2º."
+  },
+  {
+    "id": "A6",
+    "claim": "Parcela afetada tem fatores específicos",
+    "sources": [
+      "11659",
+      "r143",
+      "14514"
+    ],
+    "section": "Distribuição",
+    "limit": "Não converter simulação didática em previsão municipal."
+  },
+  {
+    "id": "A7",
+    "claim": "Voto da 54ª ROP não equivale a decisão aprovada",
+    "sources": [
+      "ata54"
+    ],
+    "section": "Biblioteca",
+    "limit": "Item 4.10 registra pedido de vista."
+  },
+  {
+    "id": "A8",
+    "claim": "Monitoramento do TCU não prova cumprimento",
+    "sources": [
+      "tcuMonitor",
+      "tcu2116"
+    ],
+    "section": "Biblioteca",
+    "limit": "Apenas objeto processual conferido."
+  },
+  {
+    "id": "A9",
+    "claim": "Receita de leilão é estimada por premissa",
+    "sources": [
+      "bases"
+    ],
+    "section": "Panorama",
+    "limit": "Total dos lances menos não pagamentos identificados; falta conciliação bancária."
+  },
+  {
+    "id": "A10",
+    "claim": "CFEM posterior é associação temporal, não efeito causal",
+    "sources": [
+      "bases"
+    ],
+    "section": "Resultados",
+    "limit": "Janelas por ciclo, vínculos e exclusões preservados."
+  },
+  {
+    "id": "A11",
+    "claim": "Critérios finais da seleção social exigem edital definitivo",
+    "sources": [
+      "ed6",
+      "launch6",
+      "ata54"
+    ],
+    "section": "6ª rodada",
+    "limit": "Contexto e resultado cadastral disponíveis; pesos finais pendentes."
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "queries": [
+    {
+      "filter": {},
+      "count": 7526,
+      "cents": 412312839
+    },
+    {
+      "filter": {
+        "round": "3"
+      },
+      "count": 855,
+      "cents": 172647499
+    },
+    {
+      "filter": {
+        "state": "MG"
+      },
+      "count": 7526,
+      "cents": 412312839
+    },
+    {
+      "filter": {
+        "search": "864.381/2012"
+      },
+      "count": 1,
+      "cents": 0
+    },
+    {
+      "filter": {
+        "round": "8",
+        "state": "PA"
+      },
+      "count": 3260,
+      "cents": 5621566
+    },
+    {
+      "filter": {
+        "mode": "results"
+      },
+      "count": 101,
+      "cents": 412312839
+    },
+    {
+      "filter": {
+        "mode": "unknown"
+      },
+      "count": 1,
+      "cents": 0
+    },
+    {
+      "filter": {
+        "mode": "interrupted"
+      },
+      "count": 1431,
+      "cents": 0
+    }
+  ],
+  "mobile": [
+    {
+      "route": "results",
+      "width": 390
+    },
+    {
+      "route": "rounds",
+      "width": 390
+    },
+    {
+      "route": "social",
+      "width": 390
+    },
+    {
+      "route": "potential",
+      "width": 390
+    },
+    {
+      "route": "alerts",
+      "width": 390
+    },
+    {
+      "route": "processes",
+      "width": 390
+    },
+    {
+      "route": "cfem",
+      "width": 390
+    },
+    {
+      "route": "legal",
+      "width": 390
+    }
+  ],
+  "errors": [],
+  "offline": true
+}
