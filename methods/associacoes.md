@@ -7,3 +7,10 @@ Evento2652: arrematação para pesquisa. Evento2293: abertura do processo declar
 301.235/2020: antecessor870.268/2020; sucessor872.250/2021 associado17/11/2021, alvará07/03/2022, início comunicado03/05/2022; relatório final negativo protocolado27/02/2025, não aprovação publicada12/05/2025 (evento318). Não se presume retorno ao estoque sem ato específico.
 
 Ambos deixam de ser não avaliáveis por associação anterior: não há CFEM posterior localizada até junho/2026. Total de origens continuadas não avaliáveis cai de26 para24. CFEM posterior agregada permaneceR$4.123.128,39. Nenhum modelo foi retreinado.
+
+## Ramificações anteriores à rodada
+A reconstrução preserva o vínculo direcionado, mas distingue ramificações anteriores da continuidade desta rodada. Havendo sucessor com associação e protocolo posteriores à homologação, ligações anteriores (associação anterior e protocolo anterior ou ausente) são mantidas no histórico e retiradas apenas do conjunto de sucessores desta rodada. Um conflito isolado de datas não é resolvido automaticamente. Não se presume que uma ramificação deixou de existir nem que as poligonais sejam idênticas.
+
+Aplicação geral: 11 origens tornaram-se avaliáveis. Pendências: 13 origens (10 com sucessor também arrematado, 1 com múltiplas arrematações, 1 com conflito de data e 1 sem sucessor identificado). CFEM posterior permanece R$4.123.128,39.
+
+811.445/2011: ligações anteriores300.161/2020,300.162/2020,300.188/2020. Sucessor810.015/2021: protocolo13/01/2021, associação22/02/2021, alvará23/02/2021, início de pesquisa comunicado26/02/2021. Arquivamento da origem23/03/2021. Relatório final negativo do sucessor10/01/2025; relatório não aprovado23/12/2025. CFEM não localizada até junho/2026. A fase atual do sucessor é autorização de pesquisa, com ativo=N na extração; não confundir fase cadastral persistida com título em vigor. Sem guia de utilização autorizada localizada. Não se conclui retorno automático ao estoque nem inadimplência.
