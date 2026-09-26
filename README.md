@@ -10,7 +10,7 @@ Abra `index.html` no navegador ou execute `python -m http.server 8080` nesta pas
 
 ## Conteúdo e corte
 
-CFEM até junho de 2026; extrações cadastrais de setembro de 2026. O HTML contém dados por processo, nomes cadastrais públicos, CNPJs, relações e vigências. CPFs não são identificados: a fonte é mascarada. A publicação externa deste pacote aguarda confirmação específica sobre esse conteúdo.
+CFEM até junho de 2026; extrações cadastrais de setembro de 2026. O HTML contém dados por processo, nomes cadastrais públicos, CNPJs, relações e vigências. CPFs não são identificados: a fonte é mascarada. Publicação deste conteúdo autorizada pelo responsável pelo projeto.
 
 Os vínculos são candidatos e precisam de conferência. Fase cadastral não certifica a fase histórica. Ausência de CFEM não comprova inadimplência. Quantidade comercializada não é valor monetário da produção. Não há modelo novo de IA treinado nesta versão.
 
