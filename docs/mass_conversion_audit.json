@@ -1,0 +1,6689 @@
+{
+  "rule": "Areia e minério de manganês: kg ÷ 1.000 = t; toneladas preservadas. m³ não convertido. Valores da CFEM inalterados. Fontes originais preservadas.",
+  "records": [
+    {
+      "process": "890.255/2003",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 112,
+      "quantity": 1759.5,
+      "unit": "t  ",
+      "tonnes": 1759.5
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 104,
+      "quantity": 30.0,
+      "unit": "t  ",
+      "tonnes": 30.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 105,
+      "quantity": 90.0,
+      "unit": "t  ",
+      "tonnes": 90.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 106,
+      "quantity": 36.0,
+      "unit": "t  ",
+      "tonnes": 36.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 107,
+      "quantity": 78.0,
+      "unit": "t  ",
+      "tonnes": 78.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 108,
+      "quantity": 36.0,
+      "unit": "t  ",
+      "tonnes": 36.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 109,
+      "quantity": 42.0,
+      "unit": "t  ",
+      "tonnes": 42.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 110,
+      "quantity": 42.0,
+      "unit": "t  ",
+      "tonnes": 42.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 111,
+      "quantity": 36.0,
+      "unit": "t  ",
+      "tonnes": 36.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 112,
+      "quantity": 54.0,
+      "unit": "t  ",
+      "tonnes": 54.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 113,
+      "quantity": 0.24,
+      "unit": "t  ",
+      "tonnes": 0.24
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 114,
+      "quantity": 16.0,
+      "unit": "t  ",
+      "tonnes": 16.0
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2018-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 115,
+      "quantity": 0.36,
+      "unit": "t  ",
+      "tonnes": 0.36
+    },
+    {
+      "process": "832.996/2004",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 116,
+      "quantity": 6.0,
+      "unit": "t  ",
+      "tonnes": 6.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 33,
+      "quantity": 30.0,
+      "unit": "t  ",
+      "tonnes": 30.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 34,
+      "quantity": 144.0,
+      "unit": "t  ",
+      "tonnes": 144.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 35,
+      "quantity": 300.0,
+      "unit": "t  ",
+      "tonnes": 300.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2017-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 37,
+      "quantity": 25.0,
+      "unit": "t  ",
+      "tonnes": 25.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 39,
+      "quantity": 37.0,
+      "unit": "t  ",
+      "tonnes": 37.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 41,
+      "quantity": 115.0,
+      "unit": "t  ",
+      "tonnes": 115.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 43,
+      "quantity": 45.0,
+      "unit": "t  ",
+      "tonnes": 45.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 45,
+      "quantity": 90.0,
+      "unit": "t  ",
+      "tonnes": 90.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 47,
+      "quantity": 30.0,
+      "unit": "t  ",
+      "tonnes": 30.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 49,
+      "quantity": 400.0,
+      "unit": "t  ",
+      "tonnes": 400.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 51,
+      "quantity": 70.0,
+      "unit": "kg ",
+      "tonnes": 0.07
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 53,
+      "quantity": 30.0,
+      "unit": "kg ",
+      "tonnes": 0.03
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 55,
+      "quantity": 108.0,
+      "unit": "kg ",
+      "tonnes": 0.108
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2018-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 57,
+      "quantity": 70.0,
+      "unit": "kg ",
+      "tonnes": 0.07
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2019-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 60,
+      "quantity": 45.0,
+      "unit": "t  ",
+      "tonnes": 45.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 61,
+      "quantity": 107.0,
+      "unit": "t  ",
+      "tonnes": 107.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2019-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 63,
+      "quantity": 465.0,
+      "unit": "t  ",
+      "tonnes": 465.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2019-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 65,
+      "quantity": 183.0,
+      "unit": "t  ",
+      "tonnes": 183.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2020-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 75,
+      "quantity": 17.0,
+      "unit": "t  ",
+      "tonnes": 17.0
+    },
+    {
+      "process": "831.207/1996",
+      "month": "2021-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 80,
+      "quantity": 14.0,
+      "unit": "t  ",
+      "tonnes": 14.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2016-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 202,
+      "quantity": 1753.0,
+      "unit": "t  ",
+      "tonnes": 1753.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2016-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 203,
+      "quantity": 1753.0,
+      "unit": "t  ",
+      "tonnes": 1753.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 204,
+      "quantity": 1.639,
+      "unit": "t  ",
+      "tonnes": 1.639
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 205,
+      "quantity": 1.639,
+      "unit": "t  ",
+      "tonnes": 1.639
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 206,
+      "quantity": 1487.0,
+      "unit": "t  ",
+      "tonnes": 1487.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 207,
+      "quantity": 1487.0,
+      "unit": "t  ",
+      "tonnes": 1487.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 208,
+      "quantity": 1726.0,
+      "unit": "t  ",
+      "tonnes": 1726.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 209,
+      "quantity": 1726.0,
+      "unit": "t  ",
+      "tonnes": 1726.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 210,
+      "quantity": 2002.0,
+      "unit": "t  ",
+      "tonnes": 2002.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 211,
+      "quantity": 2002.0,
+      "unit": "t  ",
+      "tonnes": 2002.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 212,
+      "quantity": 1721.0,
+      "unit": "t  ",
+      "tonnes": 1721.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 213,
+      "quantity": 1721.0,
+      "unit": "t  ",
+      "tonnes": 1721.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 214,
+      "quantity": 2135.0,
+      "unit": "t  ",
+      "tonnes": 2135.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 215,
+      "quantity": 2135.0,
+      "unit": "t  ",
+      "tonnes": 2135.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 216,
+      "quantity": 1802.0,
+      "unit": "t  ",
+      "tonnes": 1802.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 217,
+      "quantity": 1802.0,
+      "unit": "t  ",
+      "tonnes": 1802.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 218,
+      "quantity": 2337.0,
+      "unit": "t  ",
+      "tonnes": 2337.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 219,
+      "quantity": 2337.0,
+      "unit": "t  ",
+      "tonnes": 2337.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 220,
+      "quantity": 670.0,
+      "unit": "t  ",
+      "tonnes": 670.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 221,
+      "quantity": 670.0,
+      "unit": "t  ",
+      "tonnes": 670.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 222,
+      "quantity": 544.0,
+      "unit": "t  ",
+      "tonnes": 544.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 223,
+      "quantity": 544.0,
+      "unit": "t  ",
+      "tonnes": 544.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 224,
+      "quantity": 644.0,
+      "unit": "t  ",
+      "tonnes": 644.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 225,
+      "quantity": 644.0,
+      "unit": "t  ",
+      "tonnes": 644.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 226,
+      "quantity": 709.0,
+      "unit": "t  ",
+      "tonnes": 709.0
+    },
+    {
+      "process": "810.509/2004",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 227,
+      "quantity": 709.0,
+      "unit": "t  ",
+      "tonnes": 709.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 64,
+      "quantity": 115.2,
+      "unit": "t  ",
+      "tonnes": 115.2
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 65,
+      "quantity": 100.0,
+      "unit": "t  ",
+      "tonnes": 100.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 66,
+      "quantity": 176.7,
+      "unit": "t  ",
+      "tonnes": 176.7
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 67,
+      "quantity": 100.0,
+      "unit": "t  ",
+      "tonnes": 100.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 68,
+      "quantity": 160.0,
+      "unit": "t  ",
+      "tonnes": 160.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 69,
+      "quantity": 103.6,
+      "unit": "t  ",
+      "tonnes": 103.6
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 70,
+      "quantity": 122.0,
+      "unit": "t  ",
+      "tonnes": 122.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 71,
+      "quantity": 160.0,
+      "unit": "t  ",
+      "tonnes": 160.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 72,
+      "quantity": 50.0,
+      "unit": "t  ",
+      "tonnes": 50.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 73,
+      "quantity": 133.0,
+      "unit": "t  ",
+      "tonnes": 133.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 74,
+      "quantity": 185.0,
+      "unit": "t  ",
+      "tonnes": 185.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 75,
+      "quantity": 201.2,
+      "unit": "t  ",
+      "tonnes": 201.2
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 76,
+      "quantity": 220.0,
+      "unit": "kg ",
+      "tonnes": 0.22
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 77,
+      "quantity": 182.0,
+      "unit": "t  ",
+      "tonnes": 182.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 78,
+      "quantity": 220.0,
+      "unit": "t  ",
+      "tonnes": 220.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 79,
+      "quantity": 212.0,
+      "unit": "t  ",
+      "tonnes": 212.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2018-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 80,
+      "quantity": 286.0,
+      "unit": "kg ",
+      "tonnes": 0.28600000000000003
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 81,
+      "quantity": 15.0,
+      "unit": "t  ",
+      "tonnes": 15.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 82,
+      "quantity": 300.0,
+      "unit": "t  ",
+      "tonnes": 300.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 83,
+      "quantity": 126.0,
+      "unit": "kg ",
+      "tonnes": 0.126
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 84,
+      "quantity": 301.0,
+      "unit": "kg ",
+      "tonnes": 0.301
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 85,
+      "quantity": 276.4,
+      "unit": "t  ",
+      "tonnes": 276.4
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 86,
+      "quantity": 342.0,
+      "unit": "kg ",
+      "tonnes": 0.342
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 87,
+      "quantity": 741.0,
+      "unit": "kg ",
+      "tonnes": 0.741
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 88,
+      "quantity": 238.0,
+      "unit": "kg ",
+      "tonnes": 0.23800000000000002
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2019-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 89,
+      "quantity": 107.66,
+      "unit": "kg ",
+      "tonnes": 0.10766
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 90,
+      "quantity": 264.0,
+      "unit": "kg ",
+      "tonnes": 0.264
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 91,
+      "quantity": 200.0,
+      "unit": "kg ",
+      "tonnes": 0.2
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 92,
+      "quantity": 72.0,
+      "unit": "kg ",
+      "tonnes": 0.07200000000000001
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 93,
+      "quantity": 160.0,
+      "unit": "t  ",
+      "tonnes": 160.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 94,
+      "quantity": 170.0,
+      "unit": "kg ",
+      "tonnes": 0.17
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 95,
+      "quantity": 164.0,
+      "unit": "kg ",
+      "tonnes": 0.164
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 96,
+      "quantity": 78.0,
+      "unit": "kg ",
+      "tonnes": 0.078
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 97,
+      "quantity": 270.0,
+      "unit": "kg ",
+      "tonnes": 0.27
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 98,
+      "quantity": 504.0,
+      "unit": "kg ",
+      "tonnes": 0.504
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2020-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 99,
+      "quantity": 50.0,
+      "unit": "t  ",
+      "tonnes": 50.0
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2021-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 100,
+      "quantity": 162.06,
+      "unit": "kg ",
+      "tonnes": 0.16206
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2021-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 101,
+      "quantity": 27.0,
+      "unit": "kg ",
+      "tonnes": 0.027
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2021-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 102,
+      "quantity": 12.5,
+      "unit": "kg ",
+      "tonnes": 0.0125
+    },
+    {
+      "process": "831.300/2007",
+      "month": "2022-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 103,
+      "quantity": 607.11,
+      "unit": "kg ",
+      "tonnes": 0.60711
+    },
+    {
+      "process": "867.119/2007",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 43,
+      "quantity": 3846.001,
+      "unit": "t  ",
+      "tonnes": 3846.001
+    },
+    {
+      "process": "867.119/2007",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 44,
+      "quantity": 816.0,
+      "unit": "t  ",
+      "tonnes": 816.0
+    },
+    {
+      "process": "867.119/2007",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 45,
+      "quantity": 1326.0,
+      "unit": "kg ",
+      "tonnes": 1.326
+    },
+    {
+      "process": "834.290/2008",
+      "month": "2019-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 42.0,
+      "unit": "t  ",
+      "tonnes": 42.0
+    },
+    {
+      "process": "810.451/2011",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 56,
+      "quantity": 2.608,
+      "unit": "t  ",
+      "tonnes": 2.608
+    },
+    {
+      "process": "810.451/2011",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 57,
+      "quantity": 2.402,
+      "unit": "t  ",
+      "tonnes": 2.402
+    },
+    {
+      "process": "810.451/2011",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 58,
+      "quantity": 72.251,
+      "unit": "t  ",
+      "tonnes": 72.251
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 45,
+      "quantity": 410.0,
+      "unit": "t  ",
+      "tonnes": 410.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 46,
+      "quantity": 600.0,
+      "unit": "t  ",
+      "tonnes": 600.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 47,
+      "quantity": 510.0,
+      "unit": "t  ",
+      "tonnes": 510.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 48,
+      "quantity": 480.0,
+      "unit": "t  ",
+      "tonnes": 480.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 49,
+      "quantity": 305.0,
+      "unit": "t  ",
+      "tonnes": 305.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 50,
+      "quantity": 495.0,
+      "unit": "t  ",
+      "tonnes": 495.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 51,
+      "quantity": 395.0,
+      "unit": "t  ",
+      "tonnes": 395.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 52,
+      "quantity": 550.0,
+      "unit": "t  ",
+      "tonnes": 550.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 53,
+      "quantity": 370.0,
+      "unit": "t  ",
+      "tonnes": 370.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 54,
+      "quantity": 560.0,
+      "unit": "t  ",
+      "tonnes": 560.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 55,
+      "quantity": 620.0,
+      "unit": "t  ",
+      "tonnes": 620.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 56,
+      "quantity": 950.0,
+      "unit": "t  ",
+      "tonnes": 950.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 57,
+      "quantity": 635.0,
+      "unit": "t  ",
+      "tonnes": 635.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 58,
+      "quantity": 486.0,
+      "unit": "t  ",
+      "tonnes": 486.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 59,
+      "quantity": 550.0,
+      "unit": "t  ",
+      "tonnes": 550.0
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 60,
+      "quantity": 1130.0,
+      "unit": "kg ",
+      "tonnes": 1.1300000000000001
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 61,
+      "quantity": 600.0,
+      "unit": "kg ",
+      "tonnes": 0.6
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 62,
+      "quantity": 650.0,
+      "unit": "kg ",
+      "tonnes": 0.65
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 63,
+      "quantity": 510.0,
+      "unit": "kg ",
+      "tonnes": 0.51
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 64,
+      "quantity": 540.0,
+      "unit": "kg ",
+      "tonnes": 0.54
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2018-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 65,
+      "quantity": 190.0,
+      "unit": "kg ",
+      "tonnes": 0.19
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2019-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 66,
+      "quantity": 560.0,
+      "unit": "kg ",
+      "tonnes": 0.56
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2019-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 67,
+      "quantity": 300.0,
+      "unit": "kg ",
+      "tonnes": 0.3
+    },
+    {
+      "process": "890.524/2011",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 68,
+      "quantity": 55.0,
+      "unit": "kg ",
+      "tonnes": 0.055
+    },
+    {
+      "process": "848.459/2008",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 33,
+      "quantity": 176.5,
+      "unit": "t  ",
+      "tonnes": 176.5
+    },
+    {
+      "process": "848.459/2008",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 34,
+      "quantity": 780.0,
+      "unit": "t  ",
+      "tonnes": 780.0
+    },
+    {
+      "process": "866.462/2008",
+      "month": "2013-03",
+      "substance": "MINÉRIO DE MANGANÊS",
+      "source": "production",
+      "row": 0,
+      "quantity": 133.56,
+      "unit": "t  ",
+      "tonnes": 133.56
+    },
+    {
+      "process": "866.462/2008",
+      "month": "2013-11",
+      "substance": "MINÉRIO DE MANGANÊS",
+      "source": "production",
+      "row": 1,
+      "quantity": 139.0,
+      "unit": "t  ",
+      "tonnes": 139.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 42,
+      "quantity": 35.0,
+      "unit": "t  ",
+      "tonnes": 35.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 43,
+      "quantity": 108.0,
+      "unit": "t  ",
+      "tonnes": 108.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 44,
+      "quantity": 210.0,
+      "unit": "t  ",
+      "tonnes": 210.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 45,
+      "quantity": 266.0,
+      "unit": "t  ",
+      "tonnes": 266.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 46,
+      "quantity": 110.0,
+      "unit": "t  ",
+      "tonnes": 110.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 47,
+      "quantity": 80.0,
+      "unit": "t  ",
+      "tonnes": 80.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 48,
+      "quantity": 75.0,
+      "unit": "t  ",
+      "tonnes": 75.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 49,
+      "quantity": 184.0,
+      "unit": "t  ",
+      "tonnes": 184.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 50,
+      "quantity": 79.0,
+      "unit": "t  ",
+      "tonnes": 79.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 51,
+      "quantity": 1600.0,
+      "unit": "t  ",
+      "tonnes": 1600.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 52,
+      "quantity": 124.0,
+      "unit": "t  ",
+      "tonnes": 124.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2018-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 53,
+      "quantity": 48.0,
+      "unit": "t  ",
+      "tonnes": 48.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 54,
+      "quantity": 44.0,
+      "unit": "t  ",
+      "tonnes": 44.0
+    },
+    {
+      "process": "810.477/2009",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 55,
+      "quantity": 1926.0,
+      "unit": "t  ",
+      "tonnes": 1926.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 34,
+      "quantity": 2.0,
+      "unit": "t  ",
+      "tonnes": 2.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 35,
+      "quantity": 2.0,
+      "unit": "t  ",
+      "tonnes": 2.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 36,
+      "quantity": 1.0,
+      "unit": "t  ",
+      "tonnes": 1.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 37,
+      "quantity": 1.0,
+      "unit": "t  ",
+      "tonnes": 1.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 38,
+      "quantity": 1.0,
+      "unit": "t  ",
+      "tonnes": 1.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 39,
+      "quantity": 1.0,
+      "unit": "t  ",
+      "tonnes": 1.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 40,
+      "quantity": 1.0,
+      "unit": "t  ",
+      "tonnes": 1.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 41,
+      "quantity": 1.0,
+      "unit": "t  ",
+      "tonnes": 1.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 42,
+      "quantity": 1.0,
+      "unit": "t  ",
+      "tonnes": 1.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 43,
+      "quantity": 2.0,
+      "unit": "t  ",
+      "tonnes": 2.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 44,
+      "quantity": 2.0,
+      "unit": "t  ",
+      "tonnes": 2.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 45,
+      "quantity": 2.0,
+      "unit": "t  ",
+      "tonnes": 2.0
+    },
+    {
+      "process": "826.070/1999",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 46,
+      "quantity": 2.0,
+      "unit": "t  ",
+      "tonnes": 2.0
+    },
+    {
+      "process": "833.425/2011",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 61,
+      "quantity": 350.0,
+      "unit": "t  ",
+      "tonnes": 350.0
+    },
+    {
+      "process": "833.425/2011",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 63,
+      "quantity": 525.0,
+      "unit": "t  ",
+      "tonnes": 525.0
+    },
+    {
+      "process": "833.425/2011",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 65,
+      "quantity": 180.0,
+      "unit": "t  ",
+      "tonnes": 180.0
+    },
+    {
+      "process": "833.425/2011",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 67,
+      "quantity": 180.0,
+      "unit": "t  ",
+      "tonnes": 180.0
+    },
+    {
+      "process": "833.425/2011",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 69,
+      "quantity": 200.0,
+      "unit": "t  ",
+      "tonnes": 200.0
+    },
+    {
+      "process": "833.425/2011",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 71,
+      "quantity": 300.0,
+      "unit": "t  ",
+      "tonnes": 300.0
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 1.34,
+      "unit": "t  ",
+      "tonnes": 1.34
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 1.627,
+      "unit": "t  ",
+      "tonnes": 1.627
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 1.726,
+      "unit": "t  ",
+      "tonnes": 1.726
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2020-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 683.4,
+      "unit": "t  ",
+      "tonnes": 683.4
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2020-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 19,
+      "quantity": 632.4,
+      "unit": "t  ",
+      "tonnes": 632.4
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2020-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 20,
+      "quantity": 1249.5,
+      "unit": "t  ",
+      "tonnes": 1249.5
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2020-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 21,
+      "quantity": 1439.0,
+      "unit": "t  ",
+      "tonnes": 1439.0
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2020-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 22,
+      "quantity": 1990.7,
+      "unit": "t  ",
+      "tonnes": 1990.7
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2020-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 23,
+      "quantity": 1700.0,
+      "unit": "t  ",
+      "tonnes": 1700.0
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2021-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 24,
+      "quantity": 1870.0,
+      "unit": "t  ",
+      "tonnes": 1870.0
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2021-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 25,
+      "quantity": 2803.3,
+      "unit": "t  ",
+      "tonnes": 2803.3
+    },
+    {
+      "process": "868.247/2013",
+      "month": "2021-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 26,
+      "quantity": 3357.5,
+      "unit": "t  ",
+      "tonnes": 3357.5
+    },
+    {
+      "process": "840.102/2013",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 186.46,
+      "unit": "t  ",
+      "tonnes": 186.46
+    },
+    {
+      "process": "840.102/2013",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 164.36,
+      "unit": "t  ",
+      "tonnes": 164.36
+    },
+    {
+      "process": "850.155/2015",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 58.6,
+      "unit": "t  ",
+      "tonnes": 58.6
+    },
+    {
+      "process": "850.155/2015",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 27,
+      "quantity": 378.0,
+      "unit": "t  ",
+      "tonnes": 378.0
+    },
+    {
+      "process": "850.155/2015",
+      "month": "2018-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 28,
+      "quantity": 168.0,
+      "unit": "t  ",
+      "tonnes": 168.0
+    },
+    {
+      "process": "850.155/2015",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 30,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "850.155/2015",
+      "month": "2018-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 31,
+      "quantity": 952.0,
+      "unit": "t  ",
+      "tonnes": 952.0
+    },
+    {
+      "process": "850.155/2015",
+      "month": "2018-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 36,
+      "quantity": 200.0,
+      "unit": "t  ",
+      "tonnes": 200.0
+    },
+    {
+      "process": "896.136/2013",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 40.0,
+      "unit": "t  ",
+      "tonnes": 40.0
+    },
+    {
+      "process": "896.136/2013",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 50.0,
+      "unit": "t  ",
+      "tonnes": 50.0
+    },
+    {
+      "process": "896.136/2013",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 50.0,
+      "unit": "t  ",
+      "tonnes": 50.0
+    },
+    {
+      "process": "896.136/2013",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 50.0,
+      "unit": "t  ",
+      "tonnes": 50.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 150.0,
+      "unit": "t  ",
+      "tonnes": 150.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 160.0,
+      "unit": "t  ",
+      "tonnes": 160.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 155.0,
+      "unit": "t  ",
+      "tonnes": 155.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 70.0,
+      "unit": "t  ",
+      "tonnes": 70.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 146.0,
+      "unit": "t  ",
+      "tonnes": 146.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 171.0,
+      "unit": "t  ",
+      "tonnes": 171.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 299.0,
+      "unit": "t  ",
+      "tonnes": 299.0
+    },
+    {
+      "process": "831.718/2009",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 99.0,
+      "unit": "t  ",
+      "tonnes": 99.0
+    },
+    {
+      "process": "896.152/2015",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 395.7,
+      "unit": "t  ",
+      "tonnes": 395.7
+    },
+    {
+      "process": "803.188/2015",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2931.75,
+      "unit": "t  ",
+      "tonnes": 2931.75
+    },
+    {
+      "process": "803.188/2015",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 4184.0,
+      "unit": "t  ",
+      "tonnes": 4184.0
+    },
+    {
+      "process": "803.188/2015",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 8928.75,
+      "unit": "t  ",
+      "tonnes": 8928.75
+    },
+    {
+      "process": "803.188/2015",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 5392.25,
+      "unit": "t  ",
+      "tonnes": 5392.25
+    },
+    {
+      "process": "806.122/2014",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 6605.0,
+      "unit": "t  ",
+      "tonnes": 6605.0
+    },
+    {
+      "process": "806.122/2014",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 2395.5,
+      "unit": "t  ",
+      "tonnes": 2395.5
+    },
+    {
+      "process": "806.122/2014",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 2269.8,
+      "unit": "t  ",
+      "tonnes": 2269.8
+    },
+    {
+      "process": "806.122/2014",
+      "month": "2023-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 1152.0,
+      "unit": "t  ",
+      "tonnes": 1152.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 585.0,
+      "unit": "t  ",
+      "tonnes": 585.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 221.0,
+      "unit": "t  ",
+      "tonnes": 221.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 195.0,
+      "unit": "t  ",
+      "tonnes": 195.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 247.0,
+      "unit": "t  ",
+      "tonnes": 247.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 234.0,
+      "unit": "t  ",
+      "tonnes": 234.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2018-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 140.0,
+      "unit": "t  ",
+      "tonnes": 140.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2018-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 285.0,
+      "unit": "t  ",
+      "tonnes": 285.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2018-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 180.0,
+      "unit": "t  ",
+      "tonnes": 180.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2018-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 150.0,
+      "unit": "t  ",
+      "tonnes": 150.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2018-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 620.0,
+      "unit": "t  ",
+      "tonnes": 620.0
+    },
+    {
+      "process": "860.376/2009",
+      "month": "2019-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 180.0,
+      "unit": "t  ",
+      "tonnes": 180.0
+    },
+    {
+      "process": "830.019/2015",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 330.0,
+      "unit": "t  ",
+      "tonnes": 330.0
+    },
+    {
+      "process": "830.019/2015",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 362.0,
+      "unit": "t  ",
+      "tonnes": 362.0
+    },
+    {
+      "process": "830.019/2015",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 275.0,
+      "unit": "t  ",
+      "tonnes": 275.0
+    },
+    {
+      "process": "830.019/2015",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 165.0,
+      "unit": "t  ",
+      "tonnes": 165.0
+    },
+    {
+      "process": "830.019/2015",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 403.0,
+      "unit": "t  ",
+      "tonnes": 403.0
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 3345.5,
+      "unit": "t  ",
+      "tonnes": 3345.5
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 1218.0,
+      "unit": "t  ",
+      "tonnes": 1218.0
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 1784.0,
+      "unit": "t  ",
+      "tonnes": 1784.0
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 2536.33,
+      "unit": "t  ",
+      "tonnes": 2536.33
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 3254.0,
+      "unit": "t  ",
+      "tonnes": 3254.0
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 4300.5,
+      "unit": "t  ",
+      "tonnes": 4300.5
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 2687.4,
+      "unit": "t  ",
+      "tonnes": 2687.4
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 2856.0,
+      "unit": "t  ",
+      "tonnes": 2856.0
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 3478.67,
+      "unit": "t  ",
+      "tonnes": 3478.67
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 3386.33,
+      "unit": "t  ",
+      "tonnes": 3386.33
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 4074.0,
+      "unit": "t  ",
+      "tonnes": 4074.0
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 4254.93,
+      "unit": "t  ",
+      "tonnes": 4254.93
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2018-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 9115.58,
+      "unit": "t  ",
+      "tonnes": 9115.58
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 8835.0,
+      "unit": "t  ",
+      "tonnes": 8835.0
+    },
+    {
+      "process": "866.214/2015",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 3603.0,
+      "unit": "t  ",
+      "tonnes": 3603.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 156.0,
+      "unit": "t  ",
+      "tonnes": 156.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 230.9,
+      "unit": "t  ",
+      "tonnes": 230.9
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 218.1,
+      "unit": "t  ",
+      "tonnes": 218.1
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 185.8,
+      "unit": "t  ",
+      "tonnes": 185.8
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 150.0,
+      "unit": "t  ",
+      "tonnes": 150.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 135.0,
+      "unit": "t  ",
+      "tonnes": 135.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 296.0,
+      "unit": "t  ",
+      "tonnes": 296.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 112.0,
+      "unit": "t  ",
+      "tonnes": 112.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 215.5,
+      "unit": "t  ",
+      "tonnes": 215.5
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 232.4,
+      "unit": "t  ",
+      "tonnes": 232.4
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 156.8,
+      "unit": "t  ",
+      "tonnes": 156.8
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 134.4,
+      "unit": "t  ",
+      "tonnes": 134.4
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 22669.4,
+      "unit": "t  ",
+      "tonnes": 22669.4
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 133.0,
+      "unit": "t  ",
+      "tonnes": 133.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 81.2,
+      "unit": "t  ",
+      "tonnes": 81.2
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 134.4,
+      "unit": "t  ",
+      "tonnes": 134.4
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 44.8,
+      "unit": "t  ",
+      "tonnes": 44.8
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 329.0,
+      "unit": "t  ",
+      "tonnes": 329.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 19,
+      "quantity": 256.2,
+      "unit": "t  ",
+      "tonnes": 256.2
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2018-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 20,
+      "quantity": 92.4,
+      "unit": "t  ",
+      "tonnes": 92.4
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2019-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 21,
+      "quantity": 112.0,
+      "unit": "t  ",
+      "tonnes": 112.0
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2019-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 22,
+      "quantity": 201.6,
+      "unit": "t  ",
+      "tonnes": 201.6
+    },
+    {
+      "process": "820.569/2014",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 23,
+      "quantity": 79.8,
+      "unit": "t  ",
+      "tonnes": 79.8
+    },
+    {
+      "process": "871.324/2016",
+      "month": "2017-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1891.2,
+      "unit": "t  ",
+      "tonnes": 1891.2
+    },
+    {
+      "process": "871.324/2016",
+      "month": "2017-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 100.66,
+      "unit": "t  ",
+      "tonnes": 100.66
+    },
+    {
+      "process": "871.324/2016",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 26.64,
+      "unit": "t  ",
+      "tonnes": 26.64
+    },
+    {
+      "process": "871.324/2016",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 627.0,
+      "unit": "t  ",
+      "tonnes": 627.0
+    },
+    {
+      "process": "833.112/2011",
+      "month": "2017-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 100.0,
+      "unit": "t  ",
+      "tonnes": 100.0
+    },
+    {
+      "process": "833.112/2011",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 259.0,
+      "unit": "t  ",
+      "tonnes": 259.0
+    },
+    {
+      "process": "833.112/2011",
+      "month": "2018-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 200.0,
+      "unit": "t  ",
+      "tonnes": 200.0
+    },
+    {
+      "process": "833.112/2011",
+      "month": "2018-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 604.8,
+      "unit": "t  ",
+      "tonnes": 604.8
+    },
+    {
+      "process": "833.112/2011",
+      "month": "2019-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 435.0,
+      "unit": "t  ",
+      "tonnes": 435.0
+    },
+    {
+      "process": "811.007/2017",
+      "month": "2017-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 22976.38,
+      "unit": "t  ",
+      "tonnes": 22976.38
+    },
+    {
+      "process": "811.007/2017",
+      "month": "2017-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 24567.44,
+      "unit": "t  ",
+      "tonnes": 24567.44
+    },
+    {
+      "process": "833.926/2007",
+      "month": "2018-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 236.0,
+      "unit": "t  ",
+      "tonnes": 236.0
+    },
+    {
+      "process": "872.795/2016",
+      "month": "2018-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 3878.51,
+      "unit": "t  ",
+      "tonnes": 3878.51
+    },
+    {
+      "process": "872.795/2016",
+      "month": "2019-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 4226.86,
+      "unit": "t  ",
+      "tonnes": 4226.86
+    },
+    {
+      "process": "872.795/2016",
+      "month": "2020-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 692.57,
+      "unit": "t  ",
+      "tonnes": 692.57
+    },
+    {
+      "process": "830.974/2010",
+      "month": "2018-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1860.19,
+      "unit": "t  ",
+      "tonnes": 1860.19
+    },
+    {
+      "process": "830.974/2010",
+      "month": "2019-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 4343.03,
+      "unit": "t  ",
+      "tonnes": 4343.03
+    },
+    {
+      "process": "830.974/2010",
+      "month": "2020-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 5536.65,
+      "unit": "t  ",
+      "tonnes": 5536.65
+    },
+    {
+      "process": "830.974/2010",
+      "month": "2021-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 30610.85,
+      "unit": "t  ",
+      "tonnes": 30610.85
+    },
+    {
+      "process": "830.974/2010",
+      "month": "2021-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 43.33,
+      "unit": "t  ",
+      "tonnes": 43.33
+    },
+    {
+      "process": "830.974/2010",
+      "month": "2022-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 985.46,
+      "unit": "t  ",
+      "tonnes": 985.46
+    },
+    {
+      "process": "830.974/2010",
+      "month": "2023-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 9687.82,
+      "unit": "t  ",
+      "tonnes": 9687.82
+    },
+    {
+      "process": "833.402/2014",
+      "month": "2019-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 18.0,
+      "unit": "t  ",
+      "tonnes": 18.0
+    },
+    {
+      "process": "833.402/2014",
+      "month": "2019-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 36.0,
+      "unit": "t  ",
+      "tonnes": 36.0
+    },
+    {
+      "process": "833.402/2014",
+      "month": "2021-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 36.0,
+      "unit": "t  ",
+      "tonnes": 36.0
+    },
+    {
+      "process": "833.402/2014",
+      "month": "2021-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 18.0,
+      "unit": "t  ",
+      "tonnes": 18.0
+    },
+    {
+      "process": "833.402/2014",
+      "month": "2021-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 40.0,
+      "unit": "t  ",
+      "tonnes": 40.0
+    },
+    {
+      "process": "833.402/2014",
+      "month": "2021-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 12.0,
+      "unit": "t  ",
+      "tonnes": 12.0
+    },
+    {
+      "process": "833.402/2014",
+      "month": "2021-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 20,
+      "quantity": 100.0,
+      "unit": "t  ",
+      "tonnes": 100.0
+    },
+    {
+      "process": "886.005/2018",
+      "month": "2019-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 214.5,
+      "unit": "t  ",
+      "tonnes": 214.5
+    },
+    {
+      "process": "886.005/2018",
+      "month": "2020-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 270.0,
+      "unit": "t  ",
+      "tonnes": 270.0
+    },
+    {
+      "process": "886.005/2018",
+      "month": "2022-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 600.0,
+      "unit": "t  ",
+      "tonnes": 600.0
+    },
+    {
+      "process": "886.005/2018",
+      "month": "2022-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 600.0,
+      "unit": "t  ",
+      "tonnes": 600.0
+    },
+    {
+      "process": "867.110/2011",
+      "month": "2020-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 6604.0,
+      "unit": "t  ",
+      "tonnes": 6604.0
+    },
+    {
+      "process": "831.045/2021",
+      "month": "2021-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "831.045/2021",
+      "month": "2021-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "831.045/2021",
+      "month": "2021-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "831.045/2021",
+      "month": "2021-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "831.045/2021",
+      "month": "2021-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "831.045/2021",
+      "month": "2022-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "831.045/2021",
+      "month": "2022-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 250.0,
+      "unit": "t  ",
+      "tonnes": 250.0
+    },
+    {
+      "process": "830.859/2021",
+      "month": "2022-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 135.0,
+      "unit": "kg ",
+      "tonnes": 0.135
+    },
+    {
+      "process": "860.540/2021",
+      "month": "2022-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2130.24,
+      "unit": "t  ",
+      "tonnes": 2130.24
+    },
+    {
+      "process": "860.540/2021",
+      "month": "2022-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 3732.54,
+      "unit": "t  ",
+      "tonnes": 3732.54
+    },
+    {
+      "process": "860.540/2021",
+      "month": "2022-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 6711.6,
+      "unit": "t  ",
+      "tonnes": 6711.6
+    },
+    {
+      "process": "860.540/2021",
+      "month": "2022-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 3233.96,
+      "unit": "t  ",
+      "tonnes": 3233.96
+    },
+    {
+      "process": "860.540/2021",
+      "month": "2022-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 1069.46,
+      "unit": "t  ",
+      "tonnes": 1069.46
+    },
+    {
+      "process": "860.540/2021",
+      "month": "2023-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 411.88,
+      "unit": "t  ",
+      "tonnes": 411.88
+    },
+    {
+      "process": "820.568/2021",
+      "month": "2022-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 9457.74,
+      "unit": "t  ",
+      "tonnes": 9457.74
+    },
+    {
+      "process": "811.659/2015",
+      "month": "2022-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 8525.04,
+      "unit": "t  ",
+      "tonnes": 8525.04
+    },
+    {
+      "process": "800.468/2017",
+      "month": "2022-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 7040.0,
+      "unit": "t  ",
+      "tonnes": 7040.0
+    },
+    {
+      "process": "860.904/2017",
+      "month": "2022-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1627.5,
+      "unit": "t  ",
+      "tonnes": 1627.5
+    },
+    {
+      "process": "860.904/2017",
+      "month": "2023-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 35.0,
+      "unit": "t  ",
+      "tonnes": 35.0
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2023-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2848.05,
+      "unit": "t  ",
+      "tonnes": 2848.05
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2023-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2876.62,
+      "unit": "t  ",
+      "tonnes": 2876.62
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2023-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1766.18,
+      "unit": "t  ",
+      "tonnes": 1766.18
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2024-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 4377.82,
+      "unit": "t  ",
+      "tonnes": 4377.82
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2024-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 7123.17,
+      "unit": "t  ",
+      "tonnes": 7123.17
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2024-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 5129.86,
+      "unit": "t  ",
+      "tonnes": 5129.86
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 13167.96,
+      "unit": "t  ",
+      "tonnes": 13167.96
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 11981.23,
+      "unit": "t  ",
+      "tonnes": 11981.23
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 9878.3,
+      "unit": "t  ",
+      "tonnes": 9878.3
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 3562.79,
+      "unit": "t  ",
+      "tonnes": 3562.79
+    },
+    {
+      "process": "861.170/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 3746.18,
+      "unit": "t  ",
+      "tonnes": 3746.18
+    },
+    {
+      "process": "800.327/2021",
+      "month": "2023-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2550.37,
+      "unit": "t  ",
+      "tonnes": 2550.37
+    },
+    {
+      "process": "800.327/2021",
+      "month": "2023-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 13816.37,
+      "unit": "t  ",
+      "tonnes": 13816.37
+    },
+    {
+      "process": "864.608/2021",
+      "month": "2023-04",
+      "substance": "MINÉRIO DE MANGANÊS",
+      "source": "production",
+      "row": 0,
+      "quantity": 6000.0,
+      "unit": "t  ",
+      "tonnes": 6000.0
+    },
+    {
+      "process": "864.608/2021",
+      "month": "2023-12",
+      "substance": "MINÉRIO DE MANGANÊS",
+      "source": "production",
+      "row": 1,
+      "quantity": 4968.62,
+      "unit": "t  ",
+      "tonnes": 4968.62
+    },
+    {
+      "process": "864.608/2021",
+      "month": "2024-01",
+      "substance": "MINÉRIO DE MANGANÊS",
+      "source": "production",
+      "row": 2,
+      "quantity": 114.67,
+      "unit": "t  ",
+      "tonnes": 114.67
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 942.5,
+      "unit": "t  ",
+      "tonnes": 942.5
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 798.2,
+      "unit": "t  ",
+      "tonnes": 798.2
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1072.5,
+      "unit": "t  ",
+      "tonnes": 1072.5
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 788.0,
+      "unit": "t  ",
+      "tonnes": 788.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 594.0,
+      "unit": "t  ",
+      "tonnes": 594.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 799.0,
+      "unit": "t  ",
+      "tonnes": 799.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 423.5,
+      "unit": "t  ",
+      "tonnes": 423.5
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 636.0,
+      "unit": "t  ",
+      "tonnes": 636.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2023-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 1187.0,
+      "unit": "t  ",
+      "tonnes": 1187.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 806.7,
+      "unit": "t  ",
+      "tonnes": 806.7
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 737.0,
+      "unit": "t  ",
+      "tonnes": 737.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 1451.0,
+      "unit": "t  ",
+      "tonnes": 1451.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 984.0,
+      "unit": "t  ",
+      "tonnes": 984.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 704.35,
+      "unit": "t  ",
+      "tonnes": 704.35
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 694.62,
+      "unit": "t  ",
+      "tonnes": 694.62
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 590.89,
+      "unit": "t  ",
+      "tonnes": 590.89
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 661.95,
+      "unit": "t  ",
+      "tonnes": 661.95
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 1125.0,
+      "unit": "t  ",
+      "tonnes": 1125.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 697.0,
+      "unit": "t  ",
+      "tonnes": 697.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 19,
+      "quantity": 725.0,
+      "unit": "t  ",
+      "tonnes": 725.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 20,
+      "quantity": 592.0,
+      "unit": "t  ",
+      "tonnes": 592.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 21,
+      "quantity": 1126.0,
+      "unit": "t  ",
+      "tonnes": 1126.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 22,
+      "quantity": 1516.65,
+      "unit": "t  ",
+      "tonnes": 1516.65
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 23,
+      "quantity": 948.75,
+      "unit": "t  ",
+      "tonnes": 948.75
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 24,
+      "quantity": 706.08,
+      "unit": "t  ",
+      "tonnes": 706.08
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 25,
+      "quantity": 798.0,
+      "unit": "t  ",
+      "tonnes": 798.0
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 26,
+      "quantity": 1051.5,
+      "unit": "t  ",
+      "tonnes": 1051.5
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 27,
+      "quantity": 2226.4,
+      "unit": "t  ",
+      "tonnes": 2226.4
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 28,
+      "quantity": 1116.31,
+      "unit": "t  ",
+      "tonnes": 1116.31
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 29,
+      "quantity": 1196.97,
+      "unit": "t  ",
+      "tonnes": 1196.97
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 30,
+      "quantity": 948.31,
+      "unit": "t  ",
+      "tonnes": 948.31
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 31,
+      "quantity": 873.6,
+      "unit": "t  ",
+      "tonnes": 873.6
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 32,
+      "quantity": 783.5,
+      "unit": "t  ",
+      "tonnes": 783.5
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 33,
+      "quantity": 1113.64,
+      "unit": "t  ",
+      "tonnes": 1113.64
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 34,
+      "quantity": 959.1,
+      "unit": "t  ",
+      "tonnes": 959.1
+    },
+    {
+      "process": "860.554/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 35,
+      "quantity": 562.77,
+      "unit": "t  ",
+      "tonnes": 562.77
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2023-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 3780.37,
+      "unit": "t  ",
+      "tonnes": 3780.37
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2023-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 4747.0,
+      "unit": "t  ",
+      "tonnes": 4747.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2023-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 3807.3,
+      "unit": "t  ",
+      "tonnes": 3807.3
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2023-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 13458.14,
+      "unit": "t  ",
+      "tonnes": 13458.14
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2023-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 6939.69,
+      "unit": "t  ",
+      "tonnes": 6939.69
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2023-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 7017.1,
+      "unit": "t  ",
+      "tonnes": 7017.1
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2023-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 9990.99,
+      "unit": "t  ",
+      "tonnes": 9990.99
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 8802.8,
+      "unit": "t  ",
+      "tonnes": 8802.8
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 5112.51,
+      "unit": "t  ",
+      "tonnes": 5112.51
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 4365.54,
+      "unit": "t  ",
+      "tonnes": 4365.54
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 9099.99,
+      "unit": "t  ",
+      "tonnes": 9099.99
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 855.08,
+      "unit": "t  ",
+      "tonnes": 855.08
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 648.06,
+      "unit": "t  ",
+      "tonnes": 648.06
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 711.11,
+      "unit": "t  ",
+      "tonnes": 711.11
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 675.0,
+      "unit": "t  ",
+      "tonnes": 675.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 657.06,
+      "unit": "t  ",
+      "tonnes": 657.06
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 621.06,
+      "unit": "t  ",
+      "tonnes": 621.06
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 1350.1,
+      "unit": "t  ",
+      "tonnes": 1350.1
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 1200.0,
+      "unit": "t  ",
+      "tonnes": 1200.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 19,
+      "quantity": 1100.0,
+      "unit": "t  ",
+      "tonnes": 1100.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 20,
+      "quantity": 995.0,
+      "unit": "t  ",
+      "tonnes": 995.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 21,
+      "quantity": 2094.0,
+      "unit": "t  ",
+      "tonnes": 2094.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 22,
+      "quantity": 1120.0,
+      "unit": "t  ",
+      "tonnes": 1120.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 23,
+      "quantity": 2009.0,
+      "unit": "t  ",
+      "tonnes": 2009.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 24,
+      "quantity": 2049.0,
+      "unit": "t  ",
+      "tonnes": 2049.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 25,
+      "quantity": 918.0,
+      "unit": "t  ",
+      "tonnes": 918.0
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 26,
+      "quantity": 1125.11,
+      "unit": "t  ",
+      "tonnes": 1125.11
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 27,
+      "quantity": 1071.1,
+      "unit": "t  ",
+      "tonnes": 1071.1
+    },
+    {
+      "process": "846.241/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 28,
+      "quantity": 1849.68,
+      "unit": "t  ",
+      "tonnes": 1849.68
+    },
+    {
+      "process": "861.104/2022",
+      "month": "2023-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 562.5,
+      "unit": "t  ",
+      "tonnes": 562.5
+    },
+    {
+      "process": "861.104/2022",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 787.5,
+      "unit": "t  ",
+      "tonnes": 787.5
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2023-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 69.0,
+      "unit": "t  ",
+      "tonnes": 69.0
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2023-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 70.9,
+      "unit": "t  ",
+      "tonnes": 70.9
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2023-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 16.0,
+      "unit": "t  ",
+      "tonnes": 16.0
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2023-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 254.1,
+      "unit": "t  ",
+      "tonnes": 254.1
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2023-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 145.52,
+      "unit": "t  ",
+      "tonnes": 145.52
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2023-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 92.26,
+      "unit": "t  ",
+      "tonnes": 92.26
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2023-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 13.31,
+      "unit": "t  ",
+      "tonnes": 13.31
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2024-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 77.0,
+      "unit": "t  ",
+      "tonnes": 77.0
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 66.0,
+      "unit": "t  ",
+      "tonnes": 66.0
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2024-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 24.0,
+      "unit": "t  ",
+      "tonnes": 24.0
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 177.56,
+      "unit": "t  ",
+      "tonnes": 177.56
+    },
+    {
+      "process": "861.161/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 130.45,
+      "unit": "t  ",
+      "tonnes": 130.45
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2023-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 754.0,
+      "unit": "t  ",
+      "tonnes": 754.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2023-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 15.0,
+      "unit": "kg ",
+      "tonnes": 0.015
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2024-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 145.0,
+      "unit": "kg ",
+      "tonnes": 0.145
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2024-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 25.0,
+      "unit": "kg ",
+      "tonnes": 0.025
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 54.0,
+      "unit": "kg ",
+      "tonnes": 0.054
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 1623.0,
+      "unit": "t  ",
+      "tonnes": 1623.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2024-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 50.0,
+      "unit": "kg ",
+      "tonnes": 0.05
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 1475.0,
+      "unit": "t  ",
+      "tonnes": 1475.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 500.0,
+      "unit": "t  ",
+      "tonnes": 500.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 14.0,
+      "unit": "kg ",
+      "tonnes": 0.014
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 86.0,
+      "unit": "kg ",
+      "tonnes": 0.08600000000000001
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 280.62,
+      "unit": "kg ",
+      "tonnes": 0.28062000000000004
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 378.0,
+      "unit": "t  ",
+      "tonnes": 378.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 247.0,
+      "unit": "t  ",
+      "tonnes": 247.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 407.0,
+      "unit": "t  ",
+      "tonnes": 407.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 709.0,
+      "unit": "t  ",
+      "tonnes": 709.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 130.0,
+      "unit": "t  ",
+      "tonnes": 130.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 1500.0,
+      "unit": "t  ",
+      "tonnes": 1500.0
+    },
+    {
+      "process": "831.980/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 89.0,
+      "unit": "t  ",
+      "tonnes": 89.0
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2023-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2231.6,
+      "unit": "t  ",
+      "tonnes": 2231.6
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2023-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2284.73,
+      "unit": "t  ",
+      "tonnes": 2284.73
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2023-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 2668.42,
+      "unit": "t  ",
+      "tonnes": 2668.42
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 2766.29,
+      "unit": "t  ",
+      "tonnes": 2766.29
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 1889.36,
+      "unit": "t  ",
+      "tonnes": 1889.36
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 1715.73,
+      "unit": "t  ",
+      "tonnes": 1715.73
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 2007.4,
+      "unit": "t  ",
+      "tonnes": 2007.4
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 2397.56,
+      "unit": "t  ",
+      "tonnes": 2397.56
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 1866.64,
+      "unit": "t  ",
+      "tonnes": 1866.64
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 2035.4,
+      "unit": "t  ",
+      "tonnes": 2035.4
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 2507.78,
+      "unit": "t  ",
+      "tonnes": 2507.78
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 2647.59,
+      "unit": "t  ",
+      "tonnes": 2647.59
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 2366.29,
+      "unit": "t  ",
+      "tonnes": 2366.29
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 2344.8,
+      "unit": "t  ",
+      "tonnes": 2344.8
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2024-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 2178.79,
+      "unit": "t  ",
+      "tonnes": 2178.79
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 3485.79,
+      "unit": "t  ",
+      "tonnes": 3485.79
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 1649.23,
+      "unit": "t  ",
+      "tonnes": 1649.23
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 2236.66,
+      "unit": "t  ",
+      "tonnes": 2236.66
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 2122.84,
+      "unit": "t  ",
+      "tonnes": 2122.84
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 19,
+      "quantity": 1584.06,
+      "unit": "t  ",
+      "tonnes": 1584.06
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 20,
+      "quantity": 1689.91,
+      "unit": "t  ",
+      "tonnes": 1689.91
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 21,
+      "quantity": 1851.53,
+      "unit": "t  ",
+      "tonnes": 1851.53
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 22,
+      "quantity": 1882.69,
+      "unit": "t  ",
+      "tonnes": 1882.69
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 23,
+      "quantity": 2333.76,
+      "unit": "t  ",
+      "tonnes": 2333.76
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 24,
+      "quantity": 2825.92,
+      "unit": "t  ",
+      "tonnes": 2825.92
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 25,
+      "quantity": 3511.67,
+      "unit": "t  ",
+      "tonnes": 3511.67
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 26,
+      "quantity": 2482.85,
+      "unit": "t  ",
+      "tonnes": 2482.85
+    },
+    {
+      "process": "826.691/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 27,
+      "quantity": 1400.92,
+      "unit": "t  ",
+      "tonnes": 1400.92
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2024-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 240.0,
+      "unit": "t  ",
+      "tonnes": 240.0
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 877.81,
+      "unit": "t  ",
+      "tonnes": 877.81
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 688.0,
+      "unit": "t  ",
+      "tonnes": 688.0
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 862.18,
+      "unit": "t  ",
+      "tonnes": 862.18
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 165.0,
+      "unit": "t  ",
+      "tonnes": 165.0
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 60.0,
+      "unit": "t  ",
+      "tonnes": 60.0
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 359.5,
+      "unit": "t  ",
+      "tonnes": 359.5
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 373.07,
+      "unit": "t  ",
+      "tonnes": 373.07
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 83.19,
+      "unit": "t  ",
+      "tonnes": 83.19
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 308.0,
+      "unit": "t  ",
+      "tonnes": 308.0
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 113.0,
+      "unit": "t  ",
+      "tonnes": 113.0
+    },
+    {
+      "process": "815.577/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 580.0,
+      "unit": "t  ",
+      "tonnes": 580.0
+    },
+    {
+      "process": "861.172/2021",
+      "month": "2024-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1300.0,
+      "unit": "t  ",
+      "tonnes": 1300.0
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2024-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2432.68,
+      "unit": "t  ",
+      "tonnes": 2432.68
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 357.0,
+      "unit": "t  ",
+      "tonnes": 357.0
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2024-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 333.2,
+      "unit": "t  ",
+      "tonnes": 333.2
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2024-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 28.0,
+      "unit": "t  ",
+      "tonnes": 28.0
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 13400.25,
+      "unit": "t  ",
+      "tonnes": 13400.25
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 190.58,
+      "unit": "t  ",
+      "tonnes": 190.58
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 190.58,
+      "unit": "t  ",
+      "tonnes": 190.58
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 7402.17,
+      "unit": "t  ",
+      "tonnes": 7402.17
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 1512.7,
+      "unit": "t  ",
+      "tonnes": 1512.7
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 1469.0,
+      "unit": "t  ",
+      "tonnes": 1469.0
+    },
+    {
+      "process": "832.672/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 1469.0,
+      "unit": "t  ",
+      "tonnes": 1469.0
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 789.0,
+      "unit": "t  ",
+      "tonnes": 789.0
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 892.0,
+      "unit": "t  ",
+      "tonnes": 892.0
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 672.05,
+      "unit": "t  ",
+      "tonnes": 672.05
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 648.0,
+      "unit": "t  ",
+      "tonnes": 648.0
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 487.55,
+      "unit": "t  ",
+      "tonnes": 487.55
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 515.82,
+      "unit": "t  ",
+      "tonnes": 515.82
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 1248.0,
+      "unit": "t  ",
+      "tonnes": 1248.0
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 566.0,
+      "unit": "t  ",
+      "tonnes": 566.0
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2024-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 413.0,
+      "unit": "t  ",
+      "tonnes": 413.0
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 676.42,
+      "unit": "t  ",
+      "tonnes": 676.42
+    },
+    {
+      "process": "830.061/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 971.53,
+      "unit": "t  ",
+      "tonnes": 971.53
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 4662.59,
+      "unit": "t  ",
+      "tonnes": 4662.59
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 4618.31,
+      "unit": "t  ",
+      "tonnes": 4618.31
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 4022.49,
+      "unit": "t  ",
+      "tonnes": 4022.49
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 4166.41,
+      "unit": "t  ",
+      "tonnes": 4166.41
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 4574.76,
+      "unit": "t  ",
+      "tonnes": 4574.76
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 4067.28,
+      "unit": "t  ",
+      "tonnes": 4067.28
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 5451.55,
+      "unit": "t  ",
+      "tonnes": 5451.55
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 9809.7,
+      "unit": "t  ",
+      "tonnes": 9809.7
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2024-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 7100.95,
+      "unit": "t  ",
+      "tonnes": 7100.95
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 4573.17,
+      "unit": "t  ",
+      "tonnes": 4573.17
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 4074.57,
+      "unit": "t  ",
+      "tonnes": 4074.57
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 3500.0,
+      "unit": "t  ",
+      "tonnes": 3500.0
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 5902.0,
+      "unit": "t  ",
+      "tonnes": 5902.0
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 7705.0,
+      "unit": "t  ",
+      "tonnes": 7705.0
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 4900.0,
+      "unit": "t  ",
+      "tonnes": 4900.0
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 1357.39,
+      "unit": "t  ",
+      "tonnes": 1357.39
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 1553.4,
+      "unit": "t  ",
+      "tonnes": 1553.4
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 1549.14,
+      "unit": "t  ",
+      "tonnes": 1549.14
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 1317.97,
+      "unit": "t  ",
+      "tonnes": 1317.97
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 19,
+      "quantity": 3159.83,
+      "unit": "t  ",
+      "tonnes": 3159.83
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 20,
+      "quantity": 1424.24,
+      "unit": "t  ",
+      "tonnes": 1424.24
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 21,
+      "quantity": 955.81,
+      "unit": "t  ",
+      "tonnes": 955.81
+    },
+    {
+      "process": "826.687/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 22,
+      "quantity": 932.21,
+      "unit": "t  ",
+      "tonnes": 932.21
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2024-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 691.75,
+      "unit": "t  ",
+      "tonnes": 691.75
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2024-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2002.39,
+      "unit": "t  ",
+      "tonnes": 2002.39
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2024-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 2497.74,
+      "unit": "t  ",
+      "tonnes": 2497.74
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2024-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 1852.5,
+      "unit": "t  ",
+      "tonnes": 1852.5
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 2163.0,
+      "unit": "t  ",
+      "tonnes": 2163.0
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 2220.25,
+      "unit": "t  ",
+      "tonnes": 2220.25
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 3873.5,
+      "unit": "t  ",
+      "tonnes": 3873.5
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 4396.25,
+      "unit": "t  ",
+      "tonnes": 4396.25
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 2126.75,
+      "unit": "t  ",
+      "tonnes": 2126.75
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 2236.75,
+      "unit": "t  ",
+      "tonnes": 2236.75
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 2097.75,
+      "unit": "t  ",
+      "tonnes": 2097.75
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 2473.75,
+      "unit": "t  ",
+      "tonnes": 2473.75
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 2026.5,
+      "unit": "t  ",
+      "tonnes": 2026.5
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 2099.75,
+      "unit": "t  ",
+      "tonnes": 2099.75
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 2251.45,
+      "unit": "t  ",
+      "tonnes": 2251.45
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 15,
+      "quantity": 1798.5,
+      "unit": "t  ",
+      "tonnes": 1798.5
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 16,
+      "quantity": 2100.38,
+      "unit": "t  ",
+      "tonnes": 2100.38
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 17,
+      "quantity": 1950.06,
+      "unit": "t  ",
+      "tonnes": 1950.06
+    },
+    {
+      "process": "848.205/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 18,
+      "quantity": 2238.0,
+      "unit": "t  ",
+      "tonnes": 2238.0
+    },
+    {
+      "process": "866.642/2021",
+      "month": "2024-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 18.0,
+      "unit": "t  ",
+      "tonnes": 18.0
+    },
+    {
+      "process": "864.464/2021",
+      "month": "2025-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 5229.09,
+      "unit": "t  ",
+      "tonnes": 5229.09
+    },
+    {
+      "process": "864.464/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 4719.96,
+      "unit": "t  ",
+      "tonnes": 4719.96
+    },
+    {
+      "process": "864.464/2021",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 503.74,
+      "unit": "t  ",
+      "tonnes": 503.74
+    },
+    {
+      "process": "832.175/2024",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 20.0,
+      "unit": "t  ",
+      "tonnes": 20.0
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 4696.93,
+      "unit": "t  ",
+      "tonnes": 4696.93
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 9211.27,
+      "unit": "t  ",
+      "tonnes": 9211.27
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1616.46,
+      "unit": "t  ",
+      "tonnes": 1616.46
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 1529.65,
+      "unit": "t  ",
+      "tonnes": 1529.65
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 4996.88,
+      "unit": "t  ",
+      "tonnes": 4996.88
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 6231.07,
+      "unit": "t  ",
+      "tonnes": 6231.07
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 5372.68,
+      "unit": "t  ",
+      "tonnes": 5372.68
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 4814.12,
+      "unit": "t  ",
+      "tonnes": 4814.12
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 1295.09,
+      "unit": "t  ",
+      "tonnes": 1295.09
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 2225.0,
+      "unit": "t  ",
+      "tonnes": 2225.0
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 2119.77,
+      "unit": "t  ",
+      "tonnes": 2119.77
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 3252.82,
+      "unit": "t  ",
+      "tonnes": 3252.82
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 12,
+      "quantity": 2886.67,
+      "unit": "t  ",
+      "tonnes": 2886.67
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 13,
+      "quantity": 3881.25,
+      "unit": "t  ",
+      "tonnes": 3881.25
+    },
+    {
+      "process": "826.305/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 14,
+      "quantity": 2222.54,
+      "unit": "t  ",
+      "tonnes": 2222.54
+    },
+    {
+      "process": "861.265/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1464.0,
+      "unit": "t  ",
+      "tonnes": 1464.0
+    },
+    {
+      "process": "861.265/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 1318.0,
+      "unit": "t  ",
+      "tonnes": 1318.0
+    },
+    {
+      "process": "861.265/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1030.0,
+      "unit": "t  ",
+      "tonnes": 1030.0
+    },
+    {
+      "process": "861.265/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 753.0,
+      "unit": "t  ",
+      "tonnes": 753.0
+    },
+    {
+      "process": "861.259/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 728.0,
+      "unit": "t  ",
+      "tonnes": 728.0
+    },
+    {
+      "process": "861.259/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 704.0,
+      "unit": "t  ",
+      "tonnes": 704.0
+    },
+    {
+      "process": "861.259/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 745.0,
+      "unit": "t  ",
+      "tonnes": 745.0
+    },
+    {
+      "process": "861.259/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 661.0,
+      "unit": "t  ",
+      "tonnes": 661.0
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2025-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 11026.4,
+      "unit": "t  ",
+      "tonnes": 11026.4
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2822.34,
+      "unit": "t  ",
+      "tonnes": 2822.34
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 2534.0,
+      "unit": "t  ",
+      "tonnes": 2534.0
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 6096.28,
+      "unit": "t  ",
+      "tonnes": 6096.28
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 5590.42,
+      "unit": "t  ",
+      "tonnes": 5590.42
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 4909.76,
+      "unit": "t  ",
+      "tonnes": 4909.76
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 6387.44,
+      "unit": "t  ",
+      "tonnes": 6387.44
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 3201.18,
+      "unit": "t  ",
+      "tonnes": 3201.18
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 2631.7,
+      "unit": "t  ",
+      "tonnes": 2631.7
+    },
+    {
+      "process": "861.244/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 4044.43,
+      "unit": "t  ",
+      "tonnes": 4044.43
+    },
+    {
+      "process": "832.184/2022",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 10.0,
+      "unit": "t  ",
+      "tonnes": 10.0
+    },
+    {
+      "process": "832.184/2022",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 20.0,
+      "unit": "t  ",
+      "tonnes": 20.0
+    },
+    {
+      "process": "832.750/2021",
+      "month": "2025-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 534.6,
+      "unit": "t  ",
+      "tonnes": 534.6
+    },
+    {
+      "process": "864.379/2022",
+      "month": "2025-04",
+      "substance": "MINÉRIO DE MANGANÊS",
+      "source": "production",
+      "row": 0,
+      "quantity": 1.0,
+      "unit": "kg ",
+      "tonnes": 0.001
+    },
+    {
+      "process": "864.245/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1613.45,
+      "unit": "t  ",
+      "tonnes": 1613.45
+    },
+    {
+      "process": "864.245/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2573.1,
+      "unit": "t  ",
+      "tonnes": 2573.1
+    },
+    {
+      "process": "864.245/2021",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1732.4,
+      "unit": "t  ",
+      "tonnes": 1732.4
+    },
+    {
+      "process": "864.245/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 2273.22,
+      "unit": "t  ",
+      "tonnes": 2273.22
+    },
+    {
+      "process": "864.245/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 285700000000.85,
+      "unit": "kg ",
+      "tonnes": 285700000.00084996
+    },
+    {
+      "process": "864.245/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 5456.93,
+      "unit": "t  ",
+      "tonnes": 5456.93
+    },
+    {
+      "process": "864.245/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 2628.72,
+      "unit": "t  ",
+      "tonnes": 2628.72
+    },
+    {
+      "process": "826.546/2021",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2759.98,
+      "unit": "t  ",
+      "tonnes": 2759.98
+    },
+    {
+      "process": "826.546/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 240.99,
+      "unit": "t  ",
+      "tonnes": 240.99
+    },
+    {
+      "process": "826.546/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 10104.24,
+      "unit": "t  ",
+      "tonnes": 10104.24
+    },
+    {
+      "process": "826.546/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 4933.09,
+      "unit": "t  ",
+      "tonnes": 4933.09
+    },
+    {
+      "process": "826.546/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 4207.68,
+      "unit": "t  ",
+      "tonnes": 4207.68
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2025-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 730.5,
+      "unit": "t  ",
+      "tonnes": 730.5
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 355.5,
+      "unit": "t  ",
+      "tonnes": 355.5
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 330.0,
+      "unit": "t  ",
+      "tonnes": 330.0
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 492.0,
+      "unit": "t  ",
+      "tonnes": 492.0
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 1212.0,
+      "unit": "t  ",
+      "tonnes": 1212.0
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 621.0,
+      "unit": "t  ",
+      "tonnes": 621.0
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 754.5,
+      "unit": "t  ",
+      "tonnes": 754.5
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 573.0,
+      "unit": "t  ",
+      "tonnes": 573.0
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 328.0,
+      "unit": "t  ",
+      "tonnes": 328.0
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 570.28,
+      "unit": "t  ",
+      "tonnes": 570.28
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 1288.63,
+      "unit": "t  ",
+      "tonnes": 1288.63
+    },
+    {
+      "process": "831.940/2022",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 578.0,
+      "unit": "t  ",
+      "tonnes": 578.0
+    },
+    {
+      "process": "832.363/2022",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 498.8,
+      "unit": "t  ",
+      "tonnes": 498.8
+    },
+    {
+      "process": "832.363/2022",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 4966.0,
+      "unit": "t  ",
+      "tonnes": 4966.0
+    },
+    {
+      "process": "832.086/2024",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1175.15,
+      "unit": "t  ",
+      "tonnes": 1175.15
+    },
+    {
+      "process": "832.086/2024",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 385.06,
+      "unit": "t  ",
+      "tonnes": 385.06
+    },
+    {
+      "process": "832.086/2024",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 607.03,
+      "unit": "t  ",
+      "tonnes": 607.03
+    },
+    {
+      "process": "832.086/2024",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 522.46,
+      "unit": "t  ",
+      "tonnes": 522.46
+    },
+    {
+      "process": "832.086/2024",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 235.21,
+      "unit": "t  ",
+      "tonnes": 235.21
+    },
+    {
+      "process": "832.086/2024",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 575.14,
+      "unit": "t  ",
+      "tonnes": 575.14
+    },
+    {
+      "process": "832.431/2024",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1534.0,
+      "unit": "t  ",
+      "tonnes": 1534.0
+    },
+    {
+      "process": "832.431/2024",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 827.0,
+      "unit": "t  ",
+      "tonnes": 827.0
+    },
+    {
+      "process": "832.431/2024",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 806.0,
+      "unit": "t  ",
+      "tonnes": 806.0
+    },
+    {
+      "process": "832.431/2024",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 30.0,
+      "unit": "t  ",
+      "tonnes": 30.0
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2025-07",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 450.0,
+      "unit": "t  ",
+      "tonnes": 450.0
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2025-08",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2453.0,
+      "unit": "t  ",
+      "tonnes": 2453.0
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1594.7,
+      "unit": "t  ",
+      "tonnes": 1594.7
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 2324.65,
+      "unit": "t  ",
+      "tonnes": 2324.65
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 1259.5,
+      "unit": "t  ",
+      "tonnes": 1259.5
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 2231.81,
+      "unit": "t  ",
+      "tonnes": 2231.81
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 3596.6,
+      "unit": "t  ",
+      "tonnes": 3596.6
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 4695.0,
+      "unit": "t  ",
+      "tonnes": 4695.0
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 1002.0,
+      "unit": "t  ",
+      "tonnes": 1002.0
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 1649.13,
+      "unit": "t  ",
+      "tonnes": 1649.13
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 10,
+      "quantity": 2101.0,
+      "unit": "t  ",
+      "tonnes": 2101.0
+    },
+    {
+      "process": "830.043/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 11,
+      "quantity": 1703.51,
+      "unit": "t  ",
+      "tonnes": 1703.51
+    },
+    {
+      "process": "832.085/2024",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 342.27,
+      "unit": "t  ",
+      "tonnes": 342.27
+    },
+    {
+      "process": "832.085/2024",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 584.55,
+      "unit": "t  ",
+      "tonnes": 584.55
+    },
+    {
+      "process": "832.085/2024",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 521.22,
+      "unit": "t  ",
+      "tonnes": 521.22
+    },
+    {
+      "process": "832.085/2024",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 234.38,
+      "unit": "t  ",
+      "tonnes": 234.38
+    },
+    {
+      "process": "832.085/2024",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 542.74,
+      "unit": "t  ",
+      "tonnes": 542.74
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2025-09",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 393.0,
+      "unit": "t  ",
+      "tonnes": 393.0
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2025-10",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 921.0,
+      "unit": "t  ",
+      "tonnes": 921.0
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1179.0,
+      "unit": "t  ",
+      "tonnes": 1179.0
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 1117.5,
+      "unit": "t  ",
+      "tonnes": 1117.5
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 856.5,
+      "unit": "t  ",
+      "tonnes": 856.5
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 5,
+      "quantity": 661.5,
+      "unit": "t  ",
+      "tonnes": 661.5
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 435.0,
+      "unit": "t  ",
+      "tonnes": 435.0
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 7,
+      "quantity": 328.5,
+      "unit": "t  ",
+      "tonnes": 328.5
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 645.0,
+      "unit": "t  ",
+      "tonnes": 645.0
+    },
+    {
+      "process": "832.300/2024",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 483.0,
+      "unit": "t  ",
+      "tonnes": 483.0
+    },
+    {
+      "process": "815.321/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1200.0,
+      "unit": "t  ",
+      "tonnes": 1200.0
+    },
+    {
+      "process": "815.321/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 560.0,
+      "unit": "t  ",
+      "tonnes": 560.0
+    },
+    {
+      "process": "815.293/2021",
+      "month": "2025-11",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 450.0,
+      "unit": "t  ",
+      "tonnes": 450.0
+    },
+    {
+      "process": "815.293/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 466.82,
+      "unit": "t  ",
+      "tonnes": 466.82
+    },
+    {
+      "process": "815.293/2021",
+      "month": "2026-01",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 300.0,
+      "unit": "t  ",
+      "tonnes": 300.0
+    },
+    {
+      "process": "815.293/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 400.0,
+      "unit": "t  ",
+      "tonnes": 400.0
+    },
+    {
+      "process": "815.293/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 6,
+      "quantity": 561.16,
+      "unit": "t  ",
+      "tonnes": 561.16
+    },
+    {
+      "process": "815.293/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 8,
+      "quantity": 475.95,
+      "unit": "t  ",
+      "tonnes": 475.95
+    },
+    {
+      "process": "815.293/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 9,
+      "quantity": 290.0,
+      "unit": "t  ",
+      "tonnes": 290.0
+    },
+    {
+      "process": "861.209/2021",
+      "month": "2025-12",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2179.0,
+      "unit": "t  ",
+      "tonnes": 2179.0
+    },
+    {
+      "process": "832.148/2022",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2042.33,
+      "unit": "t  ",
+      "tonnes": 2042.33
+    },
+    {
+      "process": "832.148/2022",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2760.47,
+      "unit": "t  ",
+      "tonnes": 2760.47
+    },
+    {
+      "process": "826.689/2021",
+      "month": "2026-02",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 2671.67,
+      "unit": "t  ",
+      "tonnes": 2671.67
+    },
+    {
+      "process": "826.689/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 1697.91,
+      "unit": "t  ",
+      "tonnes": 1697.91
+    },
+    {
+      "process": "826.689/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 1907.15,
+      "unit": "t  ",
+      "tonnes": 1907.15
+    },
+    {
+      "process": "826.689/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 2184.73,
+      "unit": "t  ",
+      "tonnes": 2184.73
+    },
+    {
+      "process": "826.689/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 4,
+      "quantity": 1164.89,
+      "unit": "t  ",
+      "tonnes": 1164.89
+    },
+    {
+      "process": "848.267/2024",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 11250.0,
+      "unit": "t  ",
+      "tonnes": 11250.0
+    },
+    {
+      "process": "832.887/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 100.0,
+      "unit": "t  ",
+      "tonnes": 100.0
+    },
+    {
+      "process": "896.173/2021",
+      "month": "2026-03",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 881.12,
+      "unit": "t  ",
+      "tonnes": 881.12
+    },
+    {
+      "process": "896.173/2021",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 2721.57,
+      "unit": "t  ",
+      "tonnes": 2721.57
+    },
+    {
+      "process": "896.173/2021",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 2,
+      "quantity": 291.59,
+      "unit": "t  ",
+      "tonnes": 291.59
+    },
+    {
+      "process": "896.173/2021",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 3,
+      "quantity": 1826.61,
+      "unit": "t  ",
+      "tonnes": 1826.61
+    },
+    {
+      "process": "832.711/2024",
+      "month": "2026-04",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 22.5,
+      "unit": "t  ",
+      "tonnes": 22.5
+    },
+    {
+      "process": "896.333/2024",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 430.0,
+      "unit": "t  ",
+      "tonnes": 430.0
+    },
+    {
+      "process": "896.333/2024",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 1,
+      "quantity": 230.0,
+      "unit": "t  ",
+      "tonnes": 230.0
+    },
+    {
+      "process": "861.543/2024",
+      "month": "2026-05",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 1498.0,
+      "unit": "t  ",
+      "tonnes": 1498.0
+    },
+    {
+      "process": "832.186/2022",
+      "month": "2026-06",
+      "substance": "AREIA",
+      "source": "production",
+      "row": 0,
+      "quantity": 144.0,
+      "unit": "t  ",
+      "tonnes": 144.0
+    }
+  ],
+  "counts": {
+    "t_label": 623,
+    "kg_to_t": 45
+  }
+}
