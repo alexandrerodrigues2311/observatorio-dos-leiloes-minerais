@@ -1,5 +1,5 @@
 /* Presentation layer: no replacement of the trajectory or CFEM calculation rules. */
-const BLUE_VERSION='blue-post-auction-2026-09-27';
+const BLUE_VERSION='blue-no-selected-map-2026-09-27';
 const blueChapters=['results','rounds','social','potential','alerts','processes','cfem','legal'];
 const blueLabels={results:'Panorama',rounds:'Rodadas e destinos',social:'6ª rodada e PLG',potential:'Mapa e resultados',alerts:'Casos para acompanhar',processes:'História do processo',cfem:'CFEM: da obrigação à aplicação',legal:'Fontes, legislação e decisões'};
 const bluePositions=new Map();let blueReturn=null,blueDocFocus=null;
