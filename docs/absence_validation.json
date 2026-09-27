@@ -1,0 +1,17 @@
+{
+  "absence": {
+    "productive": 19,
+    "guide": 33,
+    "review": 48,
+    "early": 5743,
+    "missing": 4
+  },
+  "guide": {
+    "associated": 6308,
+    "comparable": 66,
+    "checks": 68,
+    "flagged": 11,
+    "above": 1
+  },
+  "total": 5847
+}

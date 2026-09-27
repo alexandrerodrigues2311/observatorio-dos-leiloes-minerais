@@ -1,0 +1,11 @@
+# Diagnóstico da ausência de CFEM — 26/09/2026
+
+No conjunto integral e marco padrão de homologação: 5.847 origens sem CFEM positiva antes e depois, excluídas trajetórias interrompidas e sem comparação. O número de 5.988 citado não foi reproduzido na versão atual; filtros, marco e versão devem ser conferidos. Cada origem é usada como identificador de área acompanhada, não como certificação de uma poligonal única.
+
+Classificação exclusiva por origem, em ordem de prioridade: 19 com associado em fase cadastral de concessão de lavra, licenciamento ou PLG; 33 em autorização de pesquisa com guia no prazo estimado e substância extraída; 48 com guia/prazo para conferir; 5.743 sem fase produtiva ou guia autorizada localizada; 4 sem fase/associado localizado. Esses quatro casos são lacuna de caracterização, não necessariamente ausência de sucessor. Não confundir com o único caso sem comparação por ciclo.
+
+A fase atual é setembro/2026, enquanto a CFEM termina em junho/2026. A classificação não prova que a fase produtiva já existia no período nem que ocorreu fato gerador. A data de título localizada e a substância da guia são exibidas, com meses desde o ato até o corte. A vigência da guia é estimada por publicação/prazo; alterações, interrupções e falta de substância extraída vão para conferência. Cadastro, título, licença ambiental e produção efetiva não são equivalentes. Na PLG, a responsabilidade do primeiro adquirente exige atenção.
+
+Validação de quantidades no recorte integral: 6.308 associados únicos; 66 com limites extraídos; 68 comparações; 11 com pontos de conferência; uma acima do limite comparado. Alertas de excesso e prazo são exibidos simultaneamente. O comparador preexistente mantém registros posteriores ao prazo para investigação e explicita que o total pode incluir esses meses. Os ciclos anuais seguem aproximadamente o aniversário da publicação. Comercialização declarada não comprova extração; estoque, competência, retificações, unidade e alterações da guia precisam ser conferidos. Não há certificação de infração.
+
+Regressão: totais monetários e filtros preservados, oito rotas sem erros JavaScript, funcionamento offline, largura de celular 390 px preservada; os 33 casos de guia podem ser selecionados e abertos individualmente. Não houve nova extração de fontes nem mudança visual da capa nesta etapa.
