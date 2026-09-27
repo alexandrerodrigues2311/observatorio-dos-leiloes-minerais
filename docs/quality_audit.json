@@ -1,0 +1,123 @@
+{
+  "scope": "Verificação computacional da versão congelada; não é auditoria independente nem conciliação bancária.",
+  "cutoff": "2026-06-30",
+  "snapshot_sha256": "fb580e02f763dd76f86673191c2217da38d6829d075f58bb12ba4c862496ff24",
+  "checks": [
+    {
+      "name": "Ofertas arrematadas sem chave repetida",
+      "actual": 7528,
+      "expected": 7528,
+      "passed": true
+    },
+    {
+      "name": "Total de arrematações",
+      "actual": 7528,
+      "expected": 7528,
+      "passed": true
+    },
+    {
+      "name": "Soma dos lances em centavos",
+      "actual": 90760412629,
+      "expected": 90760412629,
+      "passed": true
+    },
+    {
+      "name": "Áreas com não pagamento identificado",
+      "actual": 1272,
+      "expected": 1272,
+      "passed": true
+    },
+    {
+      "name": "Montante do não pagamento identificado",
+      "actual": 24302975213,
+      "expected": 24302975213,
+      "passed": true
+    },
+    {
+      "name": "Saldo de áreas sem não pagamento identificado",
+      "actual": 6256,
+      "expected": 6256,
+      "passed": true
+    },
+    {
+      "name": "CFEM atribuída às áreas comerciais",
+      "actual": 412312839,
+      "expected": 412312839,
+      "passed": true
+    },
+    {
+      "name": "Áreas comerciais com CFEM",
+      "actual": 101,
+      "expected": 101,
+      "passed": true
+    },
+    {
+      "name": "CFEM social somada por área",
+      "actual": 240300285,
+      "expected": 240300285,
+      "passed": true
+    },
+    {
+      "name": "Áreas sociais com CFEM",
+      "actual": 13,
+      "expected": 13,
+      "passed": true
+    },
+    {
+      "name": "Processos originais únicos",
+      "actual": 7526,
+      "expected": 7526,
+      "passed": true
+    },
+    {
+      "name": "Matriz comercial fecha o conjunto comparável",
+      "actual": 6094,
+      "expected": 6094,
+      "passed": true
+    },
+    {
+      "name": "CFEM posterior da matriz e das áreas",
+      "actual": 412312839,
+      "expected": 412312839,
+      "passed": true
+    },
+    {
+      "name": "Contagem posterior da matriz e das áreas",
+      "actual": 101,
+      "expected": 101,
+      "passed": true
+    },
+    {
+      "name": "Rodadas sociais e canceladas sem lance comercial",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    }
+  ],
+  "matrix": {
+    "nenhum": 5847,
+    "somente_depois": 91,
+    "somente_antes": 146,
+    "antes_e_depois": 10
+  },
+  "comparable": 6094,
+  "before_cents": 240157016,
+  "after_cents": 412312839,
+  "social_cents": 240300285,
+  "total_cfem_cents": 652613124,
+  "payment_origin_status": {
+    "unknown": 6093,
+    "unpaid": 1272,
+    "paid": 161
+  },
+  "nonpayment_match_types": {
+    "explicit": 1095,
+    "single_award": 177
+  },
+  "pending": [
+    "Conciliação financeira do saldo",
+    "Revisão documental independente de vínculos e alertas",
+    "Uniformização das janelas temporais",
+    "Teste com usuários e mensuração de tempo e acerto"
+  ]
+}
