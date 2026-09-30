@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="679.68pt" height="340.128pt" viewBox="0 0 679.68 340.128" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T00:39:35.304294</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 340.128 
+L 679.68 340.128 
+L 679.68 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 92.439 90.855936 
+L 215.478 90.855936 
+Q 219.5793 90.855936 219.5793 86.87232 
+L 219.5793 38.49984 
+Q 219.5793 34.516224 215.478 34.516224 
+L 92.439 34.516224 
+Q 88.3377 34.516224 88.3377 38.49984 
+L 88.3377 86.87232 
+Q 88.3377 90.855936 92.439 90.855936 
+z
+" clip-path="url(#paf1149e382)" style="fill: #173d64"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 253.5615 90.855936 
+L 370.7415 90.855936 
+Q 374.8428 90.855936 374.8428 86.87232 
+L 374.8428 38.49984 
+Q 374.8428 34.516224 370.7415 34.516224 
+L 253.5615 34.516224 
+Q 249.4602 34.516224 249.4602 38.49984 
+L 249.4602 86.87232 
+Q 249.4602 90.855936 253.5615 90.855936 
+z
+" clip-path="url(#paf1149e382)" style="fill: #173d64"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 411.7545 68.092416 
+L 528.9345 68.092416 
+Q 533.0358 68.092416 533.0358 64.1088 
+L 533.0358 21.4272 
+Q 533.0358 17.443584 528.9345 17.443584 
+L 411.7545 17.443584 
+Q 407.6532 17.443584 407.6532 21.4272 
+L 407.6532 64.1088 
+Q 407.6532 68.092416 411.7545 68.092416 
+z
+" clip-path="url(#paf1149e382)" style="fill: #c68126"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 411.7545 130.692096 
+L 528.9345 130.692096 
+Q 533.0358 130.692096 533.0358 126.70848 
+L 533.0358 84.02688 
+Q 533.0358 80.043264 528.9345 80.043264 
+L 411.7545 80.043264 
+Q 407.6532 80.043264 407.6532 84.02688 
+L 407.6532 126.70848 
+Q 407.6532 130.692096 411.7545 130.692096 
+z
+" clip-path="url(#paf1149e382)" style="fill: #087e83"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 92.439 170.528256 
+L 215.478 170.528256 
+Q 219.5793 170.528256 219.5793 166.54464 
+L 219.5793 118.17216 
+Q 219.5793 114.188544 215.478 114.188544 
+L 92.439 114.188544 
+Q 88.3377 114.188544 88.3377 118.17216 
+L 88.3377 166.54464 
+Q 88.3377 170.528256 92.439 170.528256 
+z
+" clip-path="url(#paf1149e382)" style="fill: #718096"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 262.35 216.055296 
+L 394.1775 216.055296 
+Q 398.2788 216.055296 398.2788 212.07168 
+L 398.2788 166.54464 
+Q 398.2788 162.561024 394.1775 162.561024 
+L 262.35 162.561024 
+Q 258.2487 162.561024 258.2487 166.54464 
+L 258.2487 212.07168 
+Q 258.2487 216.055296 262.35 216.055296 
+z
+" clip-path="url(#paf1149e382)" style="fill: #173d64"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 432.261 216.055296 
+L 561.159 216.055296 
+Q 565.2603 216.055296 565.2603 212.07168 
+L 565.2603 166.54464 
+Q 565.2603 162.561024 561.159 162.561024 
+L 432.261 162.561024 
+Q 428.1597 162.561024 428.1597 166.54464 
+L 428.1597 212.07168 
+Q 428.1597 216.055296 432.261 216.055296 
+z
+" clip-path="url(#paf1149e382)" style="fill: #087e83"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 92.439 287.191296 
+L 215.478 287.191296 
+Q 219.5793 287.191296 219.5793 283.20768 
+L 219.5793 234.8352 
+Q 219.5793 230.851584 215.478 230.851584 
+L 92.439 230.851584 
+Q 88.3377 230.851584 88.3377 234.8352 
+L 88.3377 283.20768 
+Q 88.3377 287.191296 92.439 287.191296 
+z
+" clip-path="url(#paf1149e382)" style="fill: #718096"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 262.35 287.191296 
+L 394.1775 287.191296 
+Q 398.2788 287.191296 398.2788 283.20768 
+L 398.2788 234.8352 
+Q 398.2788 230.851584 394.1775 230.851584 
+L 262.35 230.851584 
+Q 258.2487 230.851584 258.2487 234.8352 
+L 258.2487 283.20768 
+Q 258.2487 287.191296 262.35 287.191296 
+z
+" clip-path="url(#paf1149e382)" style="fill: #173d64"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 432.261 287.191296 
+L 561.159 287.191296 
+Q 565.2603 287.191296 565.2603 283.20768 
+L 565.2603 234.8352 
+Q 565.2603 230.851584 561.159 230.851584 
+L 432.261 230.851584 
+Q 428.1597 230.851584 428.1597 234.8352 
+L 428.1597 283.20768 
+Q 428.1597 287.191296 432.261 287.191296 
+z
+" clip-path="url(#paf1149e382)" style="fill: #087e83"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(100.280375 59.48276)">21.449 áreas listadas</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(89.615531 71.485494)">6 rodadas com arremates</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(261.746031 59.367916)">7.528 arrematações</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(254.816344 71.37065)">7.526 origens distintas</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 223.335654 64.1088 
+Q 234.518168 64.1088 244.023632 64.1088 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 240.023632 62.1088 
+L 244.023632 64.1088 
+L 240.023632 66.1088 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(432.881219 39.449836)">1.272 com não</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(410.789812 51.45257)">pagamento identificado</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 378.463622 54.848616 
+Q 391.246971 49.882 402.467107 45.522727 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 398.014328 45.107085 
+L 402.467107 45.522727 
+L 399.462926 48.835565 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(423.146062 101.879203)">6.256 sem registro</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(423.011687 114.05225)">de não pagamento</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 377.968339 74.106569 
+Q 391.2484 88.295467 403.382468 101.259946 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 402.109323 96.97286 
+L 403.382468 101.259946 
+L 399.188913 99.70621 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #718096" transform="translate(546.5115 103.650771)">Saldo sob premissa</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #718096" transform="translate(546.5115 114.606513)">Não certifica quitação</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(104.874125 138.95508)">4.583 conquistadas</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(96.8085 150.957814)">sem disputa financeira</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 153.9585 94.561816 
+Q 153.9585 102.52189 153.9585 108.804914 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 155.9585 104.804914 
+L 153.9585 108.804914 
+L 151.9585 104.804914 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #718096" transform="translate(92.439 193.333036)">9.063 livres · 183 suspensas</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #718096" transform="translate(92.439 203.53536)">91 retiradas · 1 conflito</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(286.6825 185.90484)">6.094 trajetórias</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(279.047344 198.307574)">fiscais comparáveis</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(435.445156 185.819683)">101 com CFEM posterior</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(456.185781 197.99273)">R$ 4,12 milhões</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 402.035154 189.30816 
+Q 413.217668 189.30816 422.723132 189.30816 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 418.723132 187.30816 
+L 422.723132 189.30816 
+L 418.723132 191.30816 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #718096" x="262.35" y="149.472" transform="rotate(-0 262.35 149.472)">Reconstrução dos processos sucessores</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(110.621781 255.81812)">420 áreas sociais</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(116.096781 267.820854)">171 requeridas</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(277.455156 255.703276)">170 com associação</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(263.290313 267.70601)">233 processos associados</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 223.341018 258.736896 
+Q 238.914469 258.736896 252.810868 258.736896 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 248.810868 256.736896 
+L 252.810868 258.736896 
+L 248.810868 260.736896 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(438.626406 255.532963)">13 com CFEM posterior</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(456.185781 267.70601)">R$ 2,40 milhões</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 402.035154 258.736896 
+Q 413.217668 258.736896 422.723132 258.736896 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 418.723132 256.736896 
+L 422.723132 258.736896 
+L 418.723132 260.736896 
+" style="fill: none; stroke: #718096; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #173d64" transform="translate(586.285047 215.941312)">114 áreas</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #173d64" transform="translate(583.742156 229.14432)">R$ 6,53 mi</text>
+   </g>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #718096" x="7.2" y="331.006125" transform="rotate(-0 7.2 331.006125)">Trilhas administrativas e fiscais têm unidades distintas. Setas representam relações, não equivalência entre contagens.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paf1149e382">
+   <rect x="86.58" y="7.2" width="585.9" height="284.544"/>
+  </clipPath>
+ </defs>
+</svg>
